@@ -1,0 +1,19 @@
+[22-Mar-2015 12:22:36 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/ubuntu/workspace/draw/src/Controller/ExpensesController.php on line 115
+[23-Mar-2015 23:02:16 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ubuntu/workspace/draw/src/Template/Expenses/add.ctp on line 4
+[24-Mar-2015 00:11:07 UTC] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/draw/vendor/cakephp/cakephp/src/ORM/Association.php on line 580
+[24-Mar-2015 00:11:24 UTC] PHP Fatal error:  Unsupported operand types in /home/ubuntu/workspace/draw/vendor/cakephp/cakephp/src/ORM/Association.php on line 580
+[29-Mar-2015 12:04:51 UTC] PHP Fatal error:  Class 'App\Controller\Time' not found in /home/ubuntu/workspace/draw/src/Controller/ExpensesController.php on line 119
+[29-Mar-2015 12:17:35 UTC] PHP Fatal error:  Call to undefined function App\Controller\getMes() in /home/ubuntu/workspace/draw/src/Controller/ExpensesController.php on line 134
+[29-Mar-2015 12:39:43 UTC] PHP Parse error:  syntax error, unexpected 'se' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/draw/src/Template/Expenses/inicio.ctp on line 25
+[29-Mar-2015 12:40:39 UTC] PHP Parse error:  syntax error, unexpected 'se' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/draw/src/Template/Expenses/inicio.ctp on line 25
+[29-Mar-2015 12:41:08 UTC] PHP Parse error:  syntax error, unexpected 'se' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/draw/src/Template/Expenses/inicio.ctp on line 25
+[29-Mar-2015 12:41:28 UTC] PHP Parse error:  syntax error, unexpected 'se' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/draw/src/Template/Expenses/inicio.ctp on line 25
+[29-Mar-2015 12:42:10 UTC] PHP Parse error:  syntax error, unexpected 'se' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/draw/src/Template/Expenses/inicio.ctp on line 25
+[29-Mar-2015 22:17:12 UTC] PHP Fatal error:  Call to a member function setDate() on a non-object in /home/ubuntu/workspace/draw/src/Controller/ExpensesController.php on line 133
+[03-Apr-2015 23:45:06 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/ubuntu/workspace/draw/src/Controller/UsersController.php on line 19
+[04-Apr-2015 21:21:15 UTC] PHP Fatal error:  Class 'App\Controller\CakeLog' not found in /home/ubuntu/workspace/draw/src/Controller/UsersController.php on line 26
+[04-Apr-2015 21:54:51 UTC] PHP Fatal error:  Call to undefined method Cake\Controller\Component\AuthComponent::login() in /home/ubuntu/workspace/draw/src/Controller/UsersController.php on line 27
+[05-Apr-2015 08:42:03 UTC] PHP Parse error:  syntax error, unexpected '$mes' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/draw/src/Template/Expenses/inicio.ctp on line 33
+[05-Apr-2015 21:15:11 UTC] PHP Parse error:  syntax error, unexpected '$mes_num' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/draw/src/Template/Expenses/inicio.ctp on line 33
+[05-Apr-2015 21:15:43 UTC] PHP Parse error:  syntax error, unexpected '$mes_num' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/draw/src/Template/Expenses/inicio.ctp on line 33
+[05-Apr-2015 21:45:20 UTC] PHP Fatal error:  Call to undefined method Cake\Database\Log\LoggingStatement::all() in /home/ubuntu/workspace/draw/src/Controller/ExpensesController.php on line 131
